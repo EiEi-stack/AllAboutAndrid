@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="main_background_color">#ede7f6</color>
+    <color name="btn_two_start_color">#a276eb</color>
+    <color name="btn_two_end_color">#6a3ab2</color>
+    <color name="btn_one_start_color">#ef4444</color>
+    <color name="btn_one_end_color">#992f2f</color>
+    <color name="line_bg_color">#000</color>
+</resources>
